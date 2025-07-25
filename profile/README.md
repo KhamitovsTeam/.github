@@ -8,6 +8,11 @@ We are currently working on [СHIP: Rescuer of Kittens](https://chip.khamitovs.t
 
 🕹️ Rescue cats 🚀 Explore alien worlds 💥 Fight bosses
 
+**Play the demo on Steam:**  
+👉 [CHIP: Rescuer of Kittens – Steam Page](https://store.steampowered.com/app/3030850/CHIP_Rescuer_of_Kittens/)
+
+---
+
 🎯 Focus areas:
 - 2D and 3D games in Unity
 - C# and custom frameworks (FNA, KTEngine)
