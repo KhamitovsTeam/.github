@@ -9,7 +9,7 @@ We are currently working on [СHIP: Rescuer of Kittens](https://chip.khamitovs.t
 🕹️ Rescue cats 🚀 Explore alien worlds 💥 Fight bosses
 
 **Play the demo on Steam:**  
-👉 [CHIP: Rescuer of Kittens – Steam Page](https://store.steampowered.com/app/3030850/CHIP_Rescuer_of_Kittens/)
+👉 [CHIP: Rescuer of Kittens – Steam Page](https://store.steampowered.com/app/1029830/CHIP_Rescuer_of_Kittens/)
 
 ---
 
