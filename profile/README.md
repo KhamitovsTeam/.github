@@ -1,3 +1,17 @@
-# Who we are?
+# 🎮 Khamitovs Team
 
-We are Khamitovs Team - Indie Game Studio working on [СHIP: Rescuer of Kittens](https://chip.khamitovs.team/), a 2D Metroidvania platformer in retro-style where you are a space rescuer of kittens.
+**Khamitovs Team** is a growing team of talented and creative professionals united by their passion for creating indie games.
+
+We are currently working on [СHIP: Rescuer of Kittens](https://chip.khamitovs.team/) - a 2D retro-style metroidvania platformer where you play as a space rescuer of kittens.  
+
+<img width="1200" height="240" alt="header" src="https://github.com/user-attachments/assets/31c98482-4ccd-4693-a164-7be64b200dd6" />
+
+🕹️ Rescue cats 🚀 Explore alien worlds 💥 Fight bosses
+
+🎯 Focus areas:
+- 2D and 3D games in Unity
+- C# and custom frameworks (FNA, KTEngine)
+- Prototyping and narrative design
+- Game jams and experiments
+
+Check out our projects below and follow the journey!
